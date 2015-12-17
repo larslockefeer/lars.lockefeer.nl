@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Reboot"
+date:   2015-12-18 00:37:18 +0100
+categories: posts
+---
+
+Every now and then, you have to reboot your system. It's inevitable. Today, I'm rebooting this website. To scratch an itch, I have moved it from Amazon AWS to Github. In addition, I have added a bunch of links to interesting things I have read in the past few months. [Check them out](/links), they might be interesting for you, too!
