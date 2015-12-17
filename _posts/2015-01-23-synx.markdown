@@ -1,0 +1,8 @@
+---
+title: Synx
+date: 23-01-2015
+layout: post
+link: https://github.com/venmo/synx
+---
+
+A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
